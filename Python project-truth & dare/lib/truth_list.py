@@ -1,0 +1,47 @@
+#TRUTH Questioniers
+
+
+truth_list=[
+    
+               "1.What was the last thing you searched for on your phone?",
+                "2.If you had to choose between going naked or having your thoughts appear in thought bubbles above your head for everyone to read, which would you choose?",
+                "3.Have you ever walked in on your parents doing it?",
+                "4.After you've dropped a piece of food, what's the longest time you've left it on the ground and then ate it?",
+                "5.Have you ever tasted a booger?",
+                "6.What's the first thing you would do if you woke up one day as the opposite sex?",
+                "7.Have you ever peed in the pool?",
+                "8.Who do you think is the worst dressed person in this room?",
+                "9.Have you ever farted in an elevator?",
+                "10.True or false? You have a crush on [fill in the blank].",
+                "11.Of the people in this room, who do you want to trade lives with?",
+                "12.What are some things you think about when sitting on the toilet?",
+                "13.Did you have an imaginary friend growing up?",
+                "14.Do you cover your eyes during a scary part in a movie?",
+                "15.Have you ever practiced kissing in a mirror?",
+                "16.Did your parents ever give you the “birds and the bees” talk?",
+                "17.What is your guilty pleasure?",
+                "18.What is your worst habit?",
+                "19.Has anyone ever walked in on you when going #2 in the bathroom?",
+                "20.Have you ever had a wardrobe malfunction?",
+                "21.Have you ever walked into a wall?",
+                "22.Do you pick your nose?",
+                "23.Do you sing in the shower?",
+                "24.Have you ever peed yourself?",
+                "25.What was your most embarrassing moment in public?",
+                "26.Have you ever farted loudly in class?",
+                "27.Do you ever talk to yourself in the mirror?",
+                "28.You’re in a public restroom and just went #2, then you realized your stall has no toilet paper. What do you do?",
+                "29.What would be in your web history that you’d be embarrassed if someone saw?",
+                "30.Have you ever tried to take a sexy picture of yourself?",
+                "31.Do you sleep with a stuffed animal?",
+                "32.Do you drool in your sleep?",
+                "33.Do you talk in your sleep?",
+                "34.Who is your secret crush?",
+                "35.Do you think [fill in the name] is cute?",
+                "36.Who do you like the least in this room and why?",
+                "37.What does your dream boy or girl look like?",
+                "38.What is your go-to song for the shower?",
+                "39.Who is the sexiest person in this room?",
+                "40.How would you rate your looks on a scale of 1 to 10?"
+
+                ]
