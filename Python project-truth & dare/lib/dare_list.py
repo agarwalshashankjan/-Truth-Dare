@@ -23,8 +23,8 @@ dare_list=[
                 "18.Close your eyes and let your friends put whatever food from the fridge they want in your mouth.",
                 "19.One by one, make up a title for each players’ movie about their life.",
                 "20.Let your friends pose you and stay like that until the next round.",
-                "21.Let each player choose one word, then attempt to form a sentence with it and post it to Facebook."
-                "22.Dance with the person sitting at your left."
+                "21.Let each player choose one word, then attempt to form a sentence with it and post it to Facebook.",
+                "22.Dance with the person sitting at your left.",
                 "23.Jump like a monkey."
            
 
