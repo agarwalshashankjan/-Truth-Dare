@@ -26,7 +26,7 @@ truth_list=[
                 "21.Have you ever walked into a wall?",
                 "22.Do you pick your nose?",
                 "23.Do you sing in the shower?",
-                "24.Have you ever peed yourself?",
+                "24.Have you ever peed yourself? If yes then go home.",
                 "25.What was your most embarrassing moment in public?",
                 "26.Have you ever farted loudly in class?",
                 "27.Do you ever talk to yourself in the mirror?",
@@ -41,7 +41,7 @@ truth_list=[
                 "36.Who do you like the least in this room and why?",
                 "37.What does your dream boy or girl look like?",
                 "38.What is your go-to song for the shower?",
-                "39.Who is the sexiest person in this room?",
-                "40.How would you rate your looks on a scale of 1 to 10?"
+                "39.How would you rate your looks on a scale of 1 to 10?",
+                "40.Have u ever punched someone like hell?"
 
                 ]
